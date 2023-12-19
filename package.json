@@ -4,7 +4,7 @@
   "description": "select text from cursor till given line",
   "version": "0.0.1",
   "publisher": "GilbertoLuis",
-  "repository": "",
+  "repository": "https://github.com/gilbertolgs/select-till-line",
   "engines": {
     "vscode": "^1.85.0"
   },
